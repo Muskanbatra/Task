@@ -1,0 +1,73 @@
+# =========================
+# Frontend (React Native)
+# =========================
+
+task_management_app/node_modules/
+task_management_app/android/app/build/
+task_management_app/android/.gradle/
+task_management_app/android/.cxx/
+task_management_app/ios/build/
+task_management_app/ios/Pods/
+
+# =========================
+# Backend (Node.js)
+# =========================
+
+task-backend/node_modules/
+task-backend/.env
+
+# =========================
+# General Node
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# Android
+# =========================
+
+.gradle/
+build/
+local.properties
+*.iml
+
+# =========================
+# Xcode / iOS
+# =========================
+
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# =========================
+# Coverage
+# =========================
+
+coverage/
+
+# =========================
+# Metro
+# =========================
+
+.metro-health-check*
+
+# =========================
+# Environment Files
+# =========================
+
+.env
+.env.*

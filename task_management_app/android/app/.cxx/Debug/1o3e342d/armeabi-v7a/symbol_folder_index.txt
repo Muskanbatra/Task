@@ -1,0 +1,1 @@
+/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/android/app/build/intermediates/cxx/Debug/1o3e342d/obj/armeabi-v7a

@@ -1,0 +1,4 @@
+/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/android/app/.cxx/RelWithDebInfo/253f6y50/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/android/app/.cxx/RelWithDebInfo/253f6y50/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/android/app/.cxx/RelWithDebInfo/253f6y50/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/android/app/.cxx/RelWithDebInfo/253f6y50/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

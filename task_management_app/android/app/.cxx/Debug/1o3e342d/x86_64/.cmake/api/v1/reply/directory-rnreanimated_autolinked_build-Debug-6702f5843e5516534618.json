@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnreanimated_autolinked_build",
+		"source" : "/Users/muskanbatra/Desktop/zt/task_management_app/task_management_app/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni"
+	}
+}
