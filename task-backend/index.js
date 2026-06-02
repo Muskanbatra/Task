@@ -36,7 +36,8 @@ app.get('/', (req, res) => res.status(200).send("Hello World !"))
 
 app.use(errorHandler);
 
-app.listen(PORT, () => {
-    console.log(`Server is running on Port: ${PORT}`);
-})
+// app.listen(PORT, () => {
+//     console.log(`Server is running on Port: ${PORT}`);
+// })
 
+module.exports = app;
